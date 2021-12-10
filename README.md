@@ -1,3 +1,3 @@
-# projects
+# Class Projects
 
-MSBA class projects.
+All the MSBA class projects.
